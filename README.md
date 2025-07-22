@@ -80,8 +80,17 @@ Patrick is your friendly, always-on digital guide who helps:
 ![Alt text](assets/image-name.png)
 
 
+## 🧠 Try Patrick – Your PVT Pro Guide GPT
+
+🚀 [Click here to launch Patrick in ChatGPT](https://chatgpt.com/g/g-687d406f3cfc8191a4030b08bb1532dd-patrick)
+
+Patrick is your bilingual, street-smart AI buddy helping you settle in Canada as a PVT/WHV traveler.  
+Checklists, housing tips, cultural advice — all in a friendly, reassuring tone.
+
+🧭 [Explore the full GitHub repo](https://github.com/emmbarea/Patrick-GPT-assistant/)
 
 
+[![View in ChatGPT](https://img.shields.io/badge/Try%20it%20in%20ChatGPT-10a37f?logo=openai&logoColor=white)](https://chat.openai.com/g/g-687d406f3cfc8191a4030b08bb1532dd-patrick)
 
 
 
