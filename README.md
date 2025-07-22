@@ -87,7 +87,7 @@ Patrick is your friendly, always-on digital guide who helps:
 Patrick is your bilingual, street-smart AI buddy helping you settle in Canada as a PVT/WHV traveler.  
 Checklists, housing tips, cultural advice — all in a friendly, reassuring tone.
 
-🧭 [Explore the full GitHub repo](https://github.com/emmbarea/Patrick-GPT-assistant/)
+🧭 [Explore the full GitHub repo](https://github.com/Emederik/Patrick-GPT-assistant.git/)
 
 
 [![View in ChatGPT](https://img.shields.io/badge/Try%20it%20in%20ChatGPT-10a37f?logo=openai&logoColor=white)](https://chat.openai.com/g/g-687d406f3cfc8191a4030b08bb1532dd-patrick)
