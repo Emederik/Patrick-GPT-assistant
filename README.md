@@ -64,7 +64,24 @@ Patrick is your friendly, always-on digital guide who helps:
 | ![User asking about insurance](link) | ![Patrick gives clear options](link) |
 
 ---
+
+# 📸 Visuals
+
+### 🧭 Project Banner
+![Patrick Banner](assets/patrick-banner.png)
 ![Patrick – Your Personal Guide](assets/patrick-Pro-PVT-guide.png)
+
+### ✅ Arrival Checklist Example
+![Checklist Screenshot](assets/arrival-checklist.png)
+
+### 🏠 Housing Advice Example
+![Housing Help Screenshot](assets/housing-help-mtl.png)
+
+![Alt text](assets/image-name.png)
+
+
+
+
 
 
 
