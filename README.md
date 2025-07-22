@@ -69,7 +69,7 @@ Patrick is your friendly, always-on digital guide who helps:
 
 ### 🧭 Project Banner
 ![Patrick Banner](assets/patrick-banner.png)
-![Patrick – Your Personal Guide](assets/patrick-Pro-PVT-guide.png)
+![Patrick – Your Personal Guide](assets/Patrick-Pro-PVT-guide.png)
 )
 
 ---
