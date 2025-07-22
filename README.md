@@ -51,7 +51,7 @@ Patrick is your friendly, always-on digital guide who helps:
 
 ## 🧪 Try Patrick Now
 
-[🚀 Launch Patrick GPT](link-to-your-custom-gpt)
+[🚀 Launch Patrick GPT]([link-to-your-custom-gpt])
 
 > 💡 Requires a ChatGPT Plus subscription
 
