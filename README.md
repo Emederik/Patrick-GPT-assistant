@@ -92,6 +92,7 @@ Checklists, housing tips, cultural advice — all in a friendly, reassuring tone
 
 [![View in ChatGPT](https://img.shields.io/badge/Try%20it%20in%20ChatGPT-10a37f?logo=openai&logoColor=white)](https://chat.openai.com/g/g-687d406f3cfc8191a4030b08bb1532dd-patrick)
 
+[![Try Patrick in ChatGPT](https://img.shields.io/badge/Try%20it%20on%20ChatGPT-10a37f?logo=openai&logoColor=white)](https://chat.openai.com/g/g-687d406f3cfc8191a4030b08bb1532dd-patrick)
 
 
 
