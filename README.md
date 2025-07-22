@@ -4,7 +4,7 @@
 
 **An AI-powered relocation companion built to guide Working Holiday Visa (WHV) and PVT holders with tips, checklists, and insider advice — like a human pro, available 24/7.**
 
-![Patrick GPT banner](link-to-banner-image)
+![Patrick GPT banner](link-to-Patrick-Pro-PVT-guide)
 
 ---
 
