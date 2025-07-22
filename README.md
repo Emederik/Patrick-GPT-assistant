@@ -57,14 +57,6 @@ Patrick is your friendly, always-on digital guide who helps:
 
 ---
 
-## 📸 Screenshots
-
-| Input | Output |
-|-------|--------|
-| ![User asking about insurance](link) | ![Patrick gives clear options](link) |
-
----
-
 # 📸 Visuals
 
 ### 🧭 Project Banner
