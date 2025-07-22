@@ -64,7 +64,7 @@ Patrick is your friendly, always-on digital guide who helps:
 | ![User asking about insurance](link) | ![Patrick gives clear options](link) |
 
 ---
-![Patrick – Your Personal Guide](assets/patrick Pro PVT guide.png)
+![Patrick – Your Personal Guide](assets/patrick-Pro-PVT-guide.png)
 
 
 
