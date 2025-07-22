@@ -121,13 +121,6 @@ Patrick is your friendly, always-on digital guide who helps:
 
 > 💡 Requires a ChatGPT Plus subscription
 
----
-
-## 📸 Screenshots
-
-| Input | Output |
-|-------|--------|
-| ![User asking about insurance](link) | ![Patrick gives clear options](link) |
 
 ---
 
@@ -143,7 +136,7 @@ Patrick is your friendly, always-on digital guide who helps:
 ### 🏠 Housing Advice Example
 ![Housing Help Screenshot](assets/housing-help-mtl.png)
 
-![Alt text](assets/image-name.png)
+
 
 
 ## 🧠 Try Patrick – Your PVT Pro Guide GPT
