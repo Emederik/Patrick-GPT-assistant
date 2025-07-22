@@ -1,16 +1,10 @@
 # Patrick-GPT-assistant
 
-# 🌍 Patrick – Your PVT/WHV Travel Expert GPT
+# 🌍 Patrick – Your PVT/WHV Montreal Expert GPT
 
 **An AI-powered relocation companion built to guide Working Holiday Visa (WHV) and PVT holders with tips, checklists, and insider advice — like a human pro, available 24/7.**
 
-![Patrick GPT banner](link-to-# Patrick-GPT-assistant
-
-# 🌍 Patrick – Your PVT/WHV Travel Expert GPT
-
-**An AI-powered relocation companion built to guide Working Holiday Visa (WHV) and PVT holders with tips, checklists, and insider advice — like a human pro, available 24/7.**
-
-![Patrick GPT banner](lassets/patrick-Pro-PVT-guide.png)
+![Patrick GPT banner](lassets/Patrick-Pro-PVT-guide.png)
 
 ---
 
